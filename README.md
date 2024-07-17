@@ -19,7 +19,4 @@ We provide a few data samples for you to test demo.
 ## Training of adaptive lighting enhancement module
 You need to configure the data_root and save_path parameters in the clip_train.py file. After executing the training, you can get the adaptive lighting enhancement model parameter file in the save_path path. This model file will be used in end_to_end.py
 
-## Use of test demo
-Place the image collection of video data in the ./data directory, and then execute the end_to_end.py file. The image collection will first undergo adaptive lighting enhancement, and then obtain the rPPG signal through our rPPG signal extraction network, and then pass through an FFT Get HR signal.
-
 # The rest of the code will be coming soon
