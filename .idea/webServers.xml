@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bd2b43d2-910d-4110-8231-8e089b8d16fe" name="V100-sun">
+        <fileTransfer rootFolder="/home/caokangyang" accessType="SFTP" host="gemlab.site" port="58768" sshConfigId="f116cc34-7472-48bf-a268-c28399860e88" sshConfig="caokangyang@gemlab.site:58768 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
