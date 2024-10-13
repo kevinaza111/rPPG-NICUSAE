@@ -19,4 +19,4 @@ We provide a few data samples for you to test demo.
 ## Training of adaptive lighting enhancement module
 You need to configure the data_root and save_path parameters in the clip_train.py file. After executing the training, you can get the adaptive lighting enhancement model parameter file in the save_path path. This model file will be used in end_to_end.py
 
-# The rest of the code will be coming soon
+
